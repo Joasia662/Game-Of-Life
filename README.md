@@ -1,5 +1,5 @@
 # Game-Of-Life
-Aplikacja napisana Windows Forms implementująca symulację: "Gra w życie (Life, The game of life)" - czyli jeden z pierwszych i najbardziej znanych przykładów automatu komórkowego
+Aplikacja napisana używając Windows Forms implementująca symulację: "Gra w życie (Life, The game of life)" - czyli jeden z pierwszych i najbardziej znanych przykładów automatu komórkowego
 * <b>Wymiar przestrzeni</b>: 2D
 * <b>Sąsiedztwo</b>: Moore
 * <b>Dostępne stany</b>: 2: „żywa” lub „martwa”
